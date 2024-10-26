@@ -12,7 +12,7 @@ Welcome to the Mayo-UGA RadOnc Foundation Models GitHub organization! Our missio
 - **SAMAug & Segment Anything Model for Radiation Oncology**: Innovations in model segmentation and augmentation for radiation oncology applications.
 - **SAMAug: Point Prompt Augmentation for Segment Anything Model**: A novel visual point augmentation method for the Segment Anything Model (SAM) that enhances interactive image segmentation performance. .
 - **LLM for AAPM TG-263 Report**: Benchmarking LLMs on structuring names in compliance with AAPM TG-263.
-- **Retrospective Comparative Analysis of Prostate Cancer In-Basket Messages: Responses from Closed-Domain LLM vs. Clinical Teams**: RadOnc-GPT, a specialized GPT-4-powered LLM focused on radiotherapeutic prostate cancer treatment, was integrated with EHR data and evaluated on 158 in-basket message interactions, showing improved clarity and empathy in responses while saving significant time for clinical care teams and reducing healthcare costs.
+- **Retrospective Comparative Analysis of Prostate Cancer In-Basket Messages: Responses from Closed-Domain LLM vs. Clinical Teams**: RadOnc-GPT was integrated with EHR data and evaluated on 158 in-basket message interactions. It demonstrates improved clarity and empathy in responses while saving significant time for clinical care teams and reducing healthcare costs.
 - **Radiation Oncology NLP Database**: Establishing a comprehensive NLP database for radiation oncology.
 
 ## Contributing

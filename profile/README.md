@@ -10,7 +10,6 @@ Welcome to the Mayo-UGA RadOnc Foundation Models GitHub organization! Our missio
 - **Artificial Intelligence-Facilitated Online Adaptive Proton Therapy**: Utilizing AI and pencil beam scanning proton therapy for adaptive treatment.
 - **Holistic Evaluation of GPT-4v for Biomedical Imaging**: Comprehensive assessments of GPT-4v's capabilities in biomedical imaging contexts.
 - **Beam Mask and Sliding Window Dose Prediction**: Implementing deep learning for accurate and efficient dose prediction in proton therapy.
-- **Patient-Specific 3D CT Images Reconstruction**: Vision transformer-based deep learning for reconstructing 3D CT images from 2D KV images.
 - **Deep Learning-Based 3D CT Deformable Image Registration in Lung Cancer**: Fast and accurate deep learning methods for 3D CT image registration in lung cancer treatment.
 - **Clinicalradiobert**: Few-shot learning and knowledge infusion for clinical notes named entity recognition.
 - **Evaluating LLMs on Radiation Oncology Physics**: Assessing the performance of LLMs on specialized topics within radiation oncology physics.

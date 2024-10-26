@@ -4,7 +4,6 @@ Welcome to the Mayo-UGA RadOnc Foundation Models GitHub organization! Our missio
 
 ## Our Projects
 
-- **Mayo-UGA RadOnc Foundation Models**: A repository for foundational LLMs and LMMs dedicated to Radiation Oncology.
 - **Radiology-NLI Public**: Exploring trade-offs between unified large language models and local fine-tuned models for specific radiology NLI tasks.
 - **Holistic Evaluation of GPT-4v for Biomedical Imaging**: Comprehensive assessments of GPT-4v's capabilities in biomedical imaging contexts.
 - **Beam Mask and Sliding Window Dose Prediction**: Implementing deep learning for accurate and efficient dose prediction in proton therapy.

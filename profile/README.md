@@ -6,14 +6,12 @@ Welcome to the Mayo-UGA RadOnc Foundation Models GitHub organization! Our missio
 
 - **Mayo-UGA RadOnc Foundation Models**: A repository for foundational LLMs and LMMs dedicated to Radiation Oncology.
 - **Radiology-NLI Public**: Exploring trade-offs between unified large language models and local fine-tuned models for specific radiology NLI tasks.
-- **Tailoring Large Language Models to Radiology**: Initial approaches for adapting LLMs to the highly specialized domain of radiology.
-- **Artificial Intelligence-Facilitated Online Adaptive Proton Therapy**: Utilizing AI and pencil beam scanning proton therapy for adaptive treatment.
 - **Holistic Evaluation of GPT-4v for Biomedical Imaging**: Comprehensive assessments of GPT-4v's capabilities in biomedical imaging contexts.
 - **Beam Mask and Sliding Window Dose Prediction**: Implementing deep learning for accurate and efficient dose prediction in proton therapy.
 - **Deep Learning-Based 3D CT Deformable Image Registration in Lung Cancer**: Fast and accurate deep learning methods for 3D CT image registration in lung cancer treatment.
-- **Clinicalradiobert**: Few-shot learning and knowledge infusion for clinical notes named entity recognition.
 - **Evaluating LLMs on Radiation Oncology Physics**: Assessing the performance of LLMs on specialized topics within radiation oncology physics.
 - **SAMAug & Segment Anything Model for Radiation Oncology**: Innovations in model segmentation and augmentation for radiation oncology applications.
+- **SAMAug: Point Prompt Augmentation for Segment Anything Model**: A novel visual point augmentation method for the Segment Anything Model (SAM) that enhances interactive image segmentation performance. .
 - **LLM for AAPM TG-263 Report**: Benchmarking LLMs on structuring names in compliance with AAPM TG-263.
 - **Radiation Oncology NLP Database**: Establishing a comprehensive NLP database for radiation oncology.
 

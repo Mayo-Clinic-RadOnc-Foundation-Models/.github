@@ -16,7 +16,6 @@ Welcome to the Mayo-UGA RadOnc Foundation Models GitHub organization! Our missio
 - **Evaluating LLMs on Radiation Oncology Physics**: Assessing the performance of LLMs on specialized topics within radiation oncology physics.
 - **SAMAug & Segment Anything Model for Radiation Oncology**: Innovations in model segmentation and augmentation for radiation oncology applications.
 - **LLM for AAPM TG-263 Report**: Benchmarking LLMs on structuring names in compliance with AAPM TG-263.
-- **Artificial General Intelligence for Radiation Oncology & RadOnc-GPT**: Pioneering AGI and specialized LLMs for comprehensive applications in radiation oncology.
 - **Radiation Oncology NLP Database**: Establishing a comprehensive NLP database for radiation oncology.
 
 ## Contributing
